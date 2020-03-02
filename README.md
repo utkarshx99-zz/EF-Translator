@@ -1,7 +1,7 @@
 # EF-Translator
-A Simple English-French Translator (One Way Translator Only) Created Using Angular 8
+A Simple English-French Translator (One Way Translator Only) Created Using Angular 9
 
-Created As Course Intro Project For Angula. Changes are welcomed
+Created As Course Intro Project For Angular. Changes are welcomed
 
 Future Updates May Come
 
